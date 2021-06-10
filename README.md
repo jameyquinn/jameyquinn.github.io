@@ -13,11 +13,10 @@ Todo:
 
 ## Favorite Phrases:
 
-1. My far away favorite and the bane of my relatives: How do you know?
+1. How do you know?
 2. "Wrong, but consistent" is many times better than "right, but inconsistent"
 3. You are what you practice, repeatedly
 4. To what end?
-5. Teams are immutable - change one person and you got yourself a new team
 6. < Explore --------------------------- Exploit > where are we on this spectrum right now?
 
 ## Disclaimer
@@ -26,7 +25,7 @@ This is a living document incumbent on no one.
 
 ## tl;dr:
 
-Here's how I introduce myself to companies (see [LinkedIn profile](https://www.linkedin.com/in/jameyquinn/))
+Here's how I introduce myself to companies (see [my LinkedIn profile](https://www.linkedin.com/in/jameyquinn/))
 
 
 > Having engineered huge-scale applications, built effective teams, and conducted research in the U.S., Kenya, Egypt, Thailand, Lebanon, India, Tunisia, Kyrgyzstan, Libya, Uzbekistan, and the Netherlands, I advise and implement data strategies ...
@@ -35,9 +34,9 @@ But, this hardly captures eveything I am and have seen. Every day I learn more o
 
 My partner is often frustrated that I would rather build something (and have it later) than buy something (and have it now-ish). My colleagues are often frustrated that I am inconsistent between home and work.
 
-Like a good tall tree, I require sunshine, a fresh breeze, the buzz of lifeforms around me, and water to feel happy.
+Like a good tall tree, I require sunshine, a fresh breeze, the buzz of life around me, and water to feel happy.
 
-I have an experimental approach ("scouting" - searching for what's real) to most things and even willing to be the proverbial guinea pig for a crazy idea. If you're playing music I might be the first to dance and give others the nerve and the freedom to dance themselves. Sometimes I'll be the last, acknowledging that every person should have a chance to shine without having shadows cast.
+I have an experimental approach ("scouting" - searching for what's real) to most things. I am willing to be the proverbial guinea pig for a crazy idea. If you're playing music I might be the first to dance and thus give others the nerve and the freedom to dance themselves. Sometimes I'll be the last one up, while I acknowledge that every person should have a chance to shine without having shadows cast.
 
 ## My job
 
@@ -143,11 +142,7 @@ The starting list of methods might be:
 * appointee
 
 
-
-> "Deciding not to decide" is a perfectly good decision.
-
-Deciding not to decide also a sound decision when it is deliberate. Not making a decision might feel unnatural or even
-wrong. It’s a valid course of action as any other, and it must always be on the table.
+> "Deciding not to decide" is a perfectly good decision and one that should always be considered.
 
 ### Communication
 
@@ -184,6 +179,8 @@ We will start often with the phrase, "where are we?" To my mind, knowing where w
 ## Building teams - lifting, shifting, gifting
 
 We do more by complementing our own ideas and skills with another person's skills and ideas. Thus we need to team up to build good, sometimes big, sometimes complicated things.
+
+Teams are immutable - change one person and you got yourself a new team. Thus, when we change things up, it can take a long time for that new team to fully develop. It may feel like regression, but people require that time to adapt to the new reality.
 
 **Lifting**: We build good teams by recruiting and nurturing for the long term - lifting.
 
