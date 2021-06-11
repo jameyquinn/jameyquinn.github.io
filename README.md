@@ -116,7 +116,7 @@ I use a number of indicators for testing the ACTUAL inclusiveness of teams:
 
 I haven't always had a section on deciding. However, in the last few years, I've noticed that team decisions have a way of degrading trust or silencing voices when we default to "single option presented --> discussion --> 'does anyone disagree?'" Engineers sometimes fall into the trap of thinking that everyone feels free to say "no". Group-think
 
-I expect you to have an opinion. If you don't have an opinion, you are not useful in the decision making process.
+I expect you to have an opinion. If you don't have an opinion, you are not useful in the decision making process. Come prepared!
 
 When we have decisions that have to be made on behalf of others, we must have concensus or accept someone else's decision. On small teams, this means we have to have a way to decide things - or said another way - decide how to decide! However, before being confronted with the difficult decision, it's a useful exercise to have teams discuss their ideal ways of creating and acknowledging consensus.
 
@@ -175,16 +175,17 @@ We will start often with the phrase, "where are we?" To my mind, knowing where w
 
   Innovation comes from inspiration and perspiration. No one has a monopoly on fresh and exciting ideas. Get to it already! Measure one thing well that demonstrates you are thinking about impact.
 
-  When you ask me if it's alright to try a different approach, I will probably challenge you with a logic model or try to push the idea to the limits of what you've already considered. This is to see if we are ready to build or if we should keep exploring for the moment. It is not a yes or a no. That decision will be yours.
-## Building teams - lifting, shifting, gifting
+  When you ask me if it's alright to try a different approach, I will probably challenge you with a logic model or try to push the idea to the limits of what you've already considered. This is to see if we are ready to build or if we should keep exploring for the moment. It is not a yes or a no. That decision will likely be yours - and so will the responsibility for making that call.
+## Building teams - sifting, lifting, shifting, gifting
 
-We do more by complementing our own ideas and skills with another person's skills and ideas. Thus we need to team up to build good, sometimes big, sometimes complicated things.
+We do more by complementing our own ideas and skills with another person's skills and ideas. Thus we need to team up to build good, sometimes big, sometimes complicated things. We won't always succeed, but that's our goal --> cohesive teams made of thriving individuals.
+
 
 Teams are immutable - change one person and you got yourself a new team. Thus, when we change things up, it can take a long time for that new team to fully develop. It may feel like regression, but people require that time to adapt to the new reality.
 
-**Lifting**: We build good teams by recruiting and nurturing for the long term - lifting.
+**Sifting**: We build good teams by recruiting and nurturing for the long term - lifting.
 
-When i interview, every very candidate should walk away with the following answered completely:
+When we interview, every very candidate should walk away with the following answered completely:
 
   1. how do we dialog?
   2. why do we build?
@@ -192,9 +193,11 @@ When i interview, every very candidate should walk away with the following answe
   4. how do we decide things as a team?
   5. where might I contribute from T-zero?
 
-**Shift**: People will be shifted around. Even ancient nerds don't have very many expert skills. Teams always have more skill needs than skills available. We look for people who are willing to explore, change, and develop expertise. To do this, our teams are expected to rotate skills. Sometimes the junior dev. will be asked to lead for a week or sprint. Sometimes the data scientist will try product ownership. The point is that when we understand each other's roles better, we interact better, we build better, we figure ourselves out.
+**Lifting**: We nurture individuals for the long term to fit on many teams and, often, for leadership. We want to have everyone who is willing try leading. This means organizing teammates, championing ideas, mentoring their colleagues, and making decisions that go beyond your comfort zone.
 
-**Gift**: People will be gifted to other companies - sometimes their own new one. Nobody fits perfectly on all teams. There is a great team that will be completed with that person. As peers and leaders, we commit to help others find and play the sport that's their speciality. This means saying goodbye. It's always possible to do so kindly. We won't always succeed, but that's our goal --> cohesive teams made of thriving individuals.
+**Shifting**: People will be shifted around. Even ancient nerds don't have very many expert skills. Teams always have more skill needs than skills available. We look for people who are willing to explore, change, and develop expertise. To do this, our teams are expected to rotate skills. Sometimes the junior dev. will be asked to lead for a week or sprint. Sometimes the data scientist will try product ownership. The point is that when we understand each other's roles better, we interact better, we build better, we figure ourselves out.
+
+**Gifting**: People will be gifted to other companies - sometimes their own new one. Nobody fits perfectly on all teams. There is a great team that will be better with that person. As peers and leaders, we commit to help others find and play the sport that's their speciality. This means saying goodbye. It's always possible to do so kindly.
 
 ---
 # Sources
