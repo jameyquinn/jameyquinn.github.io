@@ -28,9 +28,9 @@ This is a living document incumbent on no one else.
 Here's how I introduce myself to companies (see [my LinkedIn profile](https://www.linkedin.com/in/jameyquinn/))
 
 
-> Having engineered huge-scale applications, built effective teams, and conducted research in the U.S., Kenya, Egypt, Thailand, Lebanon, India, Tunisia, Kyrgyzstan, Libya, Uzbekistan, and the Netherlands, I advise and implement data strategies ...
+> Having engineered and architected big-scale applications, built effective teams, and led research in the U.S., Kenya, Egypt, Thailand, Lebanon, India, Tunisia, Kyrgyzstan, Libya, Uzbekistan, and the Netherlands, I advise and implement data strategies ...
 
-But, this hardly captures eveything I am and have seen. Every day I learn more of how to listen, learn, and express myself. Today, for example, I played guitar instead of eating lunch. I regularly read a chapter of something fascinating before beginning my day (today: *The Tangled Tree*, David Quammen 2018.) I steal moments to play, my 2 children and I wrestle and make up stories. Every night - as my colleagues have noticed on some late calls - my partner and I read and sign to/with our lovelies.
+But, this hardly captures eveything I am. Every day I learn how to better listen, learn, and express myself. Today, for example, I played guitar instead of eating lunch. I regularly read a chapter of something fascinating before beginning my day (today: *The Tangled Tree*, David Quammen 2018.) I steal moments to play where my 2 children and I wrestle and make up stories. Every night - as my colleagues have noticed on some late calls - my partner and I read and sing to/with our lovelies.
 
 My partner is often frustrated that I would rather build something (and have it later) than buy something (and have it now-ish). My colleagues are often frustrated that I am inconsistent between home and work.
 
