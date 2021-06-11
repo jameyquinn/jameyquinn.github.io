@@ -149,11 +149,16 @@ The starting list of methods might be:
 I will likely ask you "what do you think? knowing what you know now, what would you recommend?" I am not being kind - I want your opinion.
 I expect you to ask me these same questions.
 
+> #### *knowing where we are is fundamental to knowing where we're going.*
+
+#### Data informed
+I will ask you "how do we know?" If we don't know how we know something, that suggests that we don't actually know it. We will call out our assumptions that our knowledge is based on and leave the door open to changeing facts that disrupt our plans.
+
 #### Low Context Communication
 
-I tend to lean towards low-context comms. This is to ensure that we have opportunities to rehash the things "everybody" already knows. I find that low-context benefits dialog across large teams. You will see that I start conversations with baseline understanding of contexts. I will likely ask for repetition here so that we can draw out where original understandings have changed, or to highlight clarifications.
+I tend to lean towards low-context comms. This is to ensure that we have opportunities to rehash the things "everybody" already "knows". I find that low-context benefits dialog across large teams. You will see that I start conversations with baseline understanding of contexts and scope. I will likely ask for repetition here so that we can draw out where original understandings have changed, or to highlight clarifications.
 
-We will start often with the phrase, "where are we?" To my mind, knowing where we are is fundamental to knowing where we're going.
+We will start often with the phrase, "where are we?" To my mind, knowing where we are is fundamental to knowing where we will going.
 
 ### Dependencies
 
