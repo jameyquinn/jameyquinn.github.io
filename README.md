@@ -82,12 +82,7 @@ If in doubt, start like this: "Jamey, I need...." The rest we'll figure out.
 The communication patterns of individuals and teams need time to develop and can be disrupted if not left alone to grow. I build space and time for the communication channels to grow and deepen. Trust is another growable thing. I've been on the teams that stand up the first day where we all say "trust is the most important thing!" Yes, but it's not automatic and it's not even that regularly attained - certainly not by agreeing to it upfront. Trust is earned by working together on hard problems and sharing the gory and the glory that results from those efforts.
 
 #### The necessary role of *Conflict and Disagreement*
-* Disagreement is where all personal growth begins. Sometimes disagreement will bleed into conflict and that too is ok, but only if it is acknowledged. When I lead teams, we agree first on how we identify and resolve conflict. Teams can set the standard, or I will.
-
-* (Dogfood Principle) We are our own customers. When build what we would want to use.
-* Feedback is priceless. We provide and receive feedback kindly, promptly, with empathy and candour.
-* Processes exist to serve us, not the other way around.
-* This is my ideal: we take accountability of anything that goes right and wrong in our team, even if we’re not involved in the issue. For example, *my teammate pushed untested code that broke production. I am responsible for the conditions that permitted that and ultimately for the effect they had. I do not correct others when they point the finger at me for this breakage. Likewise, I gather the team and *
+Disagreement is where all personal growth begins. Sometimes disagreement will bleed into conflict and that too is ok, but only if it is acknowledged. When I lead teams, we agree first on how we identify and resolve conflict. Teams can set the standard, or I will.
 
 ## How do I measure the success of our teams
 
@@ -114,14 +109,16 @@ I like to use indicators to test the ACTUAL inclusiveness of teams:
 
 ### Decision-making
 
-I haven't always had a section on deciding. However, in the last few years, I've noticed that team decisions have a way of degrading trust or silencing voices when we default to "single option presented --> discussion --> 'does anyone disagree?'" Engineers sometimes fall into the trap of thinking that everyone feels free to say "no". Group-think
+I haven't always had a section on deciding. However, in the last few years, I've noticed that team decisions have a way of degrading trust or silencing voices when we default to "single option presented --> discussion --> 'does anyone disagree?'" Engineers sometimes fall into the trap of thinking that everyone feels free to say "no". Group-think.
 
 I expect you to have an opinion. If you don't have an opinion, you are not useful in the decision making process. Come prepared!
 
-When we have decisions that have to be made on behalf of others, we must have concensus or accept someone else's decision. On small teams, this means we have to have a way to decide things - or said another way - decide how to decide! However, before being confronted with the difficult decision, it's a useful exercise to have teams discuss their ideal ways of creating and acknowledging consensus.
+If you can't or won't decide, I will.
 
-Primary: who should decide?
-Secondary: who will decide?
+When we have decisions that have to be made on behalf of others, we should have concensus or simply accept someone else deciding for us. On small and large teams, this means we have to have a way to decide things - or said another way - decide how to decide! However, before being confronted with the difficult decision, it's a useful exercise to have teams discuss their ideal ways of creating and acknowledging consensus.
+
+*Primary*: who should decide?
+*Secondary*: who will decide?
 
 1. by when?
 1. considering what alternatives?
@@ -185,10 +182,9 @@ We will start often with the phrase, "where are we?" To my mind, knowing where w
 
 We do more by complementing our own ideas and skills with another person's skills and ideas. Thus we need to team up to build good, sometimes big, sometimes complicated things. We won't always succeed, but that's our goal --> cohesive teams made of thriving individuals.
 
-
 Teams are immutable - change one person and you got yourself a new team. Thus, when we change things up, it can take a long time for that new team to fully develop. It may feel like regression, but people require that time to adapt to the new reality.
 
-**Sifting**: We build good teams by recruiting and nurturing for the long term - lifting.
+**Sifting**: We build good teams by recruiting and nurturing for the long term - lifting. We hire individuals to contribute their own opinions and ideas and perspectives. This is a hint to keep a hold of what you know and love about yourself. The team should not change you in ways that you do not appreciate. Likewise,
 
 When we interview, every very candidate should walk away with the following answered completely:
 
@@ -204,9 +200,18 @@ When we interview, every very candidate should walk away with the following answ
 
 **Gifting**: People will be gifted to other companies - sometimes their own new one. Nobody fits perfectly on all teams. There is a great team that will be better with that person. As peers and leaders, we commit to help others find and play the sport that's their speciality. This means saying goodbye. It's always possible to do so kindly.
 
+### The language of teams
+
+> ##### *'I and me' for inside team, 'we and us' for everyone else*
+
+I think this captures how some of my best teams have operated.
+
+## Biases
+I am aware of many of my biases. I watch for them, but I am still subject to most. I appreciate when others also try to identify our hidden biases that cloud our judgments and capacity to learn. [See wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases) for a rather exhaustive but solid list.
+
 ---
 # Sources
 
-
 * [*The Tangled Tree: A Radical New History of Life*, David Quammen 2018](https://www.goodreads.com/book/show/36373639-the-tangled-tree)
 * [*The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever*, Stanier, Micheal Bungay](https://www.goodreads.com/book/show/29342515-the-coaching-habit).
+* https://en.wikipedia.org/wiki/List_of_cognitive_biases
