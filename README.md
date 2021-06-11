@@ -21,7 +21,7 @@ Todo:
 
 ## Disclaimer
 
-This is a living document incumbent on no one.
+This is a living document incumbent on no one else.
 
 ## tl;dr:
 
