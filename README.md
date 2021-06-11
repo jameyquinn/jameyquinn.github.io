@@ -96,9 +96,10 @@ All the good juju and kumbaya in the world won't save us if you aren't contribut
 ## My indicators of inclusive culture
 
 I have found this question on diversity and inclusiveness to be one of the most probative and actionable:
-> **Do our colleagues represent the most diverse set of ideas and experiences available?****
 
-I use a number of indicators for testing the ACTUAL inclusiveness of teams:
+> *Do our colleagues represent the most diverse set of ideas and experiences available?*
+
+I like to use indicators to test the ACTUAL inclusiveness of teams:
 
 * **Fearlessness** - the degree to which individuals seek out ideas contrary to their own
 * **Resilience** - the speed and ease with which conflict is mitigated or resolved and doesn't return in the same form (disagree, commit, forget)
@@ -108,8 +109,7 @@ I use a number of indicators for testing the ACTUAL inclusiveness of teams:
 * Each individual expects more of themself than of others
 * Individuals look out for each other's well-being. I've seen well-meaning colleagues use the team's documented standards to belittle a teammate.
 * All understand and adhere to the [golden rule](https://en.wikipedia.org/wiki/Golden_Rule) and are willing to be called out when failing it
-* Bias experience over knowledge, doing over talking
-* We are proud of - and often celebrate - our differences. We protect these differences and support the voices even when we disagree with the words
+* We are proud of - and **often** celebrate - our differences. We protect these differences and support the voices even when we disagree with the words
 
 
 ### Decision-making
