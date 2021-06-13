@@ -102,7 +102,7 @@ Instead, make reasonable promises about useful things to people who care. Second
 2. are used
 3. are changed occasionally
 
-I've seen only one team that was so good and so isolated in their work that they could get away with having little written record of the standards they used. However, this team failed to benefit from 2 excellent engineers within 2 months. Each of these noobs asked to be moved because the team's ways of working (WOW) was completely inscrutable. It is impossible to contribute when there are no shared expectations of the work product.
+I've seen only one team that was so good and so isolated in their work that they could get away with having little written record of the standards they used. However, this team failed to accelerate their work with more engineering power - both excellent and proven engineers. Why? Each of these team noobs had asked to be moved because the team's ways of working (WOW) was completely inscrutable. It is impossible for someone to contribute when there are no communicated expectations.
 
 That said, I have also led a team that focused so heavily on creating their standards that these documents never actually got tested before the team was disbanded.
 
