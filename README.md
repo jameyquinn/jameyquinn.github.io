@@ -63,15 +63,15 @@ In day to day life, I use a few principles that I rely on when - I will admit it
 
 ## My Management Style
 
-A former colleague described my management style as "transformational" [].  A current colleague used "visionary" [his description of this: "innovative and inspiring"]to describe my approach - . There are subtle distinctions between these, but I think context of leadership can drive the style more than innate preference. I don't disagree with these, but I don't particularly like the labels because of the judgment they imply. "Transformational" does not capture that I challenge a lot of things in people - sometimes their patience even. I do challenge assumptions, and intent, and process because I am more confident in the people around me when I see that they too have thought about the context we operate in.
+A former colleague described my management style as "transformational" ["getting everyone to contribute to the big picture" was how he put it].  A current colleague used "visionary" [his words: "innovative and inspiring"] to describe my approach. There are subtle distinctions between these, but I think context of leadership can drive the style more than innate preference. I don't disagree with these, but I don't particularly like the labels because of the judgment they imply. "Transformational" does not capture that I challenge a lot of things in people - sometimes their patience even. I do challenge assumptions, and intent, and process because I am more confident in the people around me when I see that they too have thought about the context we operate in.
 
-Bullet points are admittedly trite, so here are some quick phrases that I repeat to myself:
+Bullet points are admittedly trite, so here are some quick phrases that I repeat to myself when managing:
 
 * kindness before rightness
 * those who "do" get to "decide"
 * don't tell me, show me
 * if you want to lead, then start walking
-* Management ≠ (does NOT equal) leadership.
+* management ≠ (does NOT equal) leadership.
 
 #### I serve You
 
@@ -138,7 +138,6 @@ The starting list of methods might be:
 * majority vote
 * committee decision - a subset of people make the decision or sometimes just the recommendation
 * appointee
-
 
 > "Deciding not to decide" is a perfectly good decision and one that should always be considered.
 
