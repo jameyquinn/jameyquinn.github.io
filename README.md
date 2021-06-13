@@ -5,13 +5,14 @@ Todo:
    - [x] tldr
    - [x] my job
    - [ ] what i am working on
+   - [ ] protecting our creative process
    - [x] guiding principles
    - [x] personal management style
    - [x] success
+   - [x] standards
    - [x] inclusion
    - [x] teams
    - [x] sources
-   - [ ] protecting the creative process
 
 ## Favorite Phrases:
 
@@ -38,7 +39,7 @@ My partner is often frustrated that I would rather build something (and have it 
 
 Like a good tall tree, I require sunshine, a fresh breeze, the buzz of life around me, and water to feel happy.
 
-I have an experimental approach ("scouting" - searching for what's real) to most things. I am willing to be the proverbial guinea pig for a crazy idea. If you're playing music I might be the first to dance and thus give others the nerve and the freedom to dance themselves. Sometimes I'll be the last one up, while I acknowledge that every person should have a chance to shine without having shadows cast.
+I have an experimental approach ("scouting" - searching for what's real) to most things. I am willing to be the proverbial guinea pig for a crazy idea. If you're playing music I might be the first to dance simply to give others the nerve and the freedom to dance themselves silly. Other times, I'll be the last one up, while I sit back and applaud, knowing that every person should have a chance to shine without shadows cast on them.
 
 ## My job
 
@@ -48,7 +49,7 @@ As an engineer, architect, and leader, I expect myself to...
 * Understand and - where possible - influence priorities
 * Foster learning and personal growth through experience
 * Ensure that decisions are made via consultations with relevant stakeholders
-* Build space for free expression and fearless exploration of ideas
+* Build space for free expression and fearless exploration of ideas - protecting the creative process
 * Embrace confusion while striving to minimize it
 
 ## Baseline principles
@@ -63,7 +64,7 @@ In day to day life, I use a few principles that I rely on when - I will admit it
 
 ## My Management Style
 
-A former colleague described my management style as "transformational" ["getting everyone to contribute to the big picture" was how he put it].  A current colleague used "visionary" [his words: "innovative and inspiring"] to describe my approach. There are subtle distinctions between these, but I think context of leadership can drive the style more than innate preference. I don't disagree with these, but I don't particularly like the labels because of the judgment they imply. "Transformational" does not capture that I challenge a lot of things in people - sometimes their patience even. I do challenge assumptions, and intent, and process because I am more confident in the people around me when I see that they too have thought about the context we operate in.
+A former colleague described my management style as "transformational" ["getting everyone to contribute to the big picture" was how he put it].  A current colleague used "visionary" [his words: "innovative and inspiring"] to describe my approach. There are subtle distinctions between these, but I think context of leadership can drive the style more than innate preference. I don't disagree with these, but I don't particularly like the labels because of the judgment they imply. "Transformational" does not capture that I challenge a lot of things in people - sometimes even their patience. I do challenge assumptions, and intent, and process because I am more confident in the people around me when I see that they too have thought about the context we operate in.
 
 Bullet points are admittedly trite, so here are some quick phrases that I repeat to myself when managing:
 
@@ -73,21 +74,37 @@ Bullet points are admittedly trite, so here are some quick phrases that I repeat
 * if you want to lead, then start walking
 * management ≠ (does NOT equal) leadership.
 
-#### I serve You
+### To my reports: I serve you
 
 To actually help you, I only need that you tell me what *you* need. Sometimes, all you'll need is a rubber-duck (someone to bounce an idea on). Other times, you'll need a champion - where I'll help clear a path. Sometimes, you'll need reminder of what we're doing on this lump of rock and water hurtling through the cosmos - I will do my best to reflect on how much we've done together and how much we have yet to do.
 
 If in doubt, start like this: "Jamey, I need...." The rest we'll figure out.
 
-#### The case for *Time and Space*
+### The case for *Time and Space*
 The communication patterns of individuals and teams need time to develop and can be disrupted if not left alone to grow. I build space and time for the communication channels to grow and deepen. Trust is another growable thing. I've been on the teams that stand up the first day where we all say "trust is the most important thing!" Yes, but it's not automatic and it's not even that regularly attained - certainly not by agreeing to it upfront. Trust is earned by working together on hard problems and sharing the gory and the glory that results from those efforts.
 
-#### The necessary role of *Conflict and Disagreement*
+### The necessary role of *Conflict and Disagreement*
 Disagreement is where all personal growth begins. Sometimes disagreement will bleed into conflict and that too is ok, but only if it is acknowledged. When I lead teams, we agree first on how we identify and resolve conflict. Teams can set the standard, or I will.
 
-## How do I measure the success of our teams
+### How do I measure the success of our teams
 
-All the good juju and kumbaya in the world won't save us if you aren't contributing to the learning and productivity of yourself, your colleagues, and this company.
+A couple of years ago, I found myself leading a squad of 12 people. This team before I had joined was so focused on the good feelings and conflict free discussions, that they had lost all sight of the work they had been asked to do. My boss found it ironic that my first reaction to "The Team of Happy" - as had called it - was anything but happy. I noted after a couple of days listening that there were going to be a few moments of uncomfortable conflict and that the happiness indicator was going to be replaced with a conflict count. Further, every day for 11 days, I invited someone that the team had let down either through planning or product fails.
+
+I have had two scrum masters at two distinct times insist that happiness is the only important measure of teamwork. We did not last long together.
+
+All the good juju and kumbaya in the world won't save us if you aren't contributing to the learning and productivity of yourself, your colleagues, and this company. Happy - IMHO - is not an acceptable byproduct of failure to live up to expections.
+
+### Standards
+
+1. are written
+2. are used
+3. are changed occasionally
+
+I've seen only one team that was so good and so isolated in their work that they could get away with having little written record of the standards they used. However, this team failed to benefit from 2 excellent engineers within 2 months. Each of these noobs asked to be moved because the team's ways of working (WOW) was completely inscrutable. It is impossible to contribute when there are no shared expectations of the work product.
+
+That said, I have also led a team that focused so heavily on creating their standards that these documents never actually got tested before the team was disbanded.
+
+Standards are like water - too little and we end up withered; too much and we drown.
 
 ## My indicators of inclusive culture
 
