@@ -222,7 +222,7 @@ When we interview, every very candidate should walk away with the following answ
   4. how do we decide things as a team?
   5. where might I contribute from T-zero?
 
-**Lifting**: We nurture individuals for the long term to fit on many teams and, often, for leadership. We want to have everyone who is willing try leading. This means organizing teammates, championing ideas, mentoring their colleagues, and making decisions that go beyond your comfort zone.
+**Lifting**: We nurture individuals for the long term to fit on many teams and, often, for leadership. All who are willing should try leading. This means organizing teammates, championing ideas, mentoring their colleagues, and making decisions that go beyond your comfort zone. This is our practice pitch. By now, you have liked guessed why I say "we are what we practice repeatedly."
 
 **Shifting**: People will be shifted around. Even ancient nerds don't have very many expert skills. Teams always have more skill needs than skills available. We look for people who are willing to explore, change, and develop expertise. To do this, our teams are expected to rotate skills. Sometimes the junior dev. will be asked to lead for a week or sprint. Sometimes the data scientist will try product ownership. The point is that when we understand each other's roles better, we interact better, we build better, we figure ourselves out.
 
