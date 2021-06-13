@@ -194,7 +194,7 @@ We will start often with the phrase, "where are we?" To my mind, knowing where w
 
   If there is only one person on a team that is capable and/or responsible for a critical component or process, FIX THAT NOW!
 
-  **Code dependencies - DRY (Don't Repeat Yourself) v. AHA (Avoid Hasty Abstractions**
+  **Code dependencies - DRY (Don't Repeat Yourself) v. AHA (Avoid Hasty Abstractions)**
 
   DRY applies within a single system. In cloud architectures, DRY complicates things tremendously. Don't use the DRY principle to justify a complicated cross-system abstraction.
 
