@@ -243,5 +243,5 @@ I am aware of many of my biases. I watch for them, but I am still subject to mos
 
 * [*The Tangled Tree: A Radical New History of Life*, David Quammen 2018](https://www.goodreads.com/book/show/36373639-the-tangled-tree)
 * [*The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever*, Stanier, Micheal Bungay](https://www.goodreads.com/book/show/29342515-the-coaching-habit).
-* https://en.wikipedia.org/wiki/List_of_cognitive_biases
+* (https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 * [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
