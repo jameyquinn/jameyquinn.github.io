@@ -4,12 +4,14 @@ Todo:
    - [x] disclaimer
    - [x] tldr
    - [x] my job
-   - [ ] guiding principles
-   - [ ] management styles
+   - [ ] what i am working on
+   - [x] guiding principles
+   - [x] personal management style
    - [x] success
    - [x] inclusion
-   - [ ] teams
+   - [x] teams
    - [x] sources
+   - [ ] protecting the creative process
 
 ## Favorite Phrases:
 
@@ -61,7 +63,7 @@ In day to day life, I use a few principles that I rely on when - I will admit it
 
 ## My Management Style
 
-Current and former colleagues have described style as either "transformational" or "visionary" depending on the context. I don't disagree with these, but I don't particularly like the labels because of the judgment they imply. "Transformational" does not capture that I challenge a lot of things in people - sometimes their patience even. I do challenge assumptions, and intent, and process because I am more confident in the people around me when I see that they too have thought about the context we operate in.
+A former colleague described my management style as "transformational" [].  A current colleague used "visionary" [his description of this: "innovative and inspiring"]to describe my approach - . There are subtle distinctions between these, but I think context of leadership can drive the style more than innate preference. I don't disagree with these, but I don't particularly like the labels because of the judgment they imply. "Transformational" does not capture that I challenge a lot of things in people - sometimes their patience even. I do challenge assumptions, and intent, and process because I am more confident in the people around me when I see that they too have thought about the context we operate in.
 
 Bullet points are admittedly trite, so here are some quick phrases that I repeat to myself:
 
@@ -69,8 +71,7 @@ Bullet points are admittedly trite, so here are some quick phrases that I repeat
 * those who "do" get to "decide"
 * don't tell me, show me
 * if you want to lead, then start walking
-* Management != leadership.
-
+* Management ≠ (does NOT equal) leadership.
 
 #### I serve You
 
@@ -107,7 +108,7 @@ I like to use indicators to test the ACTUAL inclusiveness of teams:
 * We are proud of - and **often** celebrate - our differences. We protect these differences and support the voices even when we disagree with the words
 
 
-### Decision-making
+## Decision-making
 
 I haven't always had a section on deciding. However, in the last few years, I've noticed that team decisions have a way of degrading trust or silencing voices when we default to "single option presented --> discussion --> 'does anyone disagree?'" Engineers sometimes fall into the trap of thinking that everyone feels free to say "no". Group-think.
 
@@ -130,7 +131,7 @@ When we have decisions that have to be made on behalf of others, we should have 
 
 #### By what decision making process?
 
-The choice of decision making method can make or break a team. A decision must be made during stressful moments can feel rushed and arbitrary. Even when the best balance of interests is the result, a rushed decision can leave everyone feeling ignored or disrespected. For that reason, it helps to establish the ground rules for the team upfront. Some decisions are rightly made by the team lead (appointed or de facto) while others can be deferred to individuals. However, most decisions can be reasonably put to the whole team or a subset of teammates.
+The choice of decision making method can make or break a team. A decision that must be made during stressful moments will feel rushed and arbitrary. Even when the best balance of interests is the result, a rushed decision can leave everyone feeling ignored or disrespected. For that reason, it helps to establish the ground rules for the team upfront. Some decisions are rightly made by the team lead (appointed or de facto) while others can be deferred to individuals. However, most decisions can be reasonably put to the whole team or a subset of teammates.
 
 The starting list of methods might be:
 * unanimous / concensus
@@ -149,7 +150,7 @@ I expect you to ask me these same questions.
 > #### *knowing where we are is fundamental to knowing where we're going.*
 
 #### Data informed
-I will ask you "how do we know?" If we don't know how we know something, that suggests that we don't actually know it. We will call out our assumptions that our knowledge is based on and leave the door open to changeing facts that disrupt our plans.
+I will ask you "how do we know?" If we don't know how we know something, that suggests that we don't actually know it. We will call out our assumptions that our knowledge is based on and leave the door open to changing facts that disrupt our plans.
 
 #### Low Context Communication
 
@@ -169,10 +170,10 @@ We will start often with the phrase, "where are we?" To my mind, knowing where w
   **People Dependencies**
   If there is only one person on a team that is capable and/or responsible for a critical component or process, FIX THAT NOW!
 
-  **Code dependencies - DRY v. AHA**
+  **Code dependencies - DRY (Don't Repeat Yourself) v. AHA**
   DRY applies within a single system. In cloud architectures, DRY complicates things tremendously. Don't use the DRY principle to justify a complicated cross-system abstraction.
 
-  *For cloud based systems, copy-paste is an easier operation than both (a) abstraction and (b) dependency management*
+  **Cloud dependencies**: For cloud based systems, copy-paste is an easier operation than both (a) abstraction and (b) dependency management
   #### Innovation
 
   Innovation comes from inspiration and perspiration. No one has a monopoly on fresh and exciting ideas. Get to it already! Measure one thing well that demonstrates you are thinking about impact.
@@ -204,7 +205,7 @@ When we interview, every very candidate should walk away with the following answ
 
 > ##### *'I and me' for inside team, 'we and us' for everyone else*
 
-I think this captures how some of my best teams have operated.
+When it's just us, we have to be explicit about our own opinions and work. However, when we represent our own and team work, it's so important for fairness to use more inclusive language of "we" to describe our work. I think this captures how some of my best teams have operated.
 
 ## Biases
 I am aware of many of my biases. I watch for them, but I am still subject to most. I appreciate when others also try to identify our hidden biases that cloud our judgments and capacity to learn. [See wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases) for a rather exhaustive but solid list.
@@ -215,3 +216,4 @@ I am aware of many of my biases. I watch for them, but I am still subject to mos
 * [*The Tangled Tree: A Radical New History of Life*, David Quammen 2018](https://www.goodreads.com/book/show/36373639-the-tangled-tree)
 * [*The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever*, Stanier, Micheal Bungay](https://www.goodreads.com/book/show/29342515-the-coaching-habit).
 * https://en.wikipedia.org/wiki/List_of_cognitive_biases
+* [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
