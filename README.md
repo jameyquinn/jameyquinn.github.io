@@ -129,7 +129,7 @@ I like to use indicators to test the ACTUAL inclusiveness of teams:
 
 ## Decision-making
 
-I haven't always had a section on deciding. However, in the last few years, I've noticed that team decisions have a way of degrading trust or silencing voices when we default to "single option presented --> discussion --> 'does anyone disagree?'" Engineers sometimes fall into the trap of thinking that everyone feels free to say "no". Group-think.
+I haven't always had a section on deciding. However, in the last few years, I've noticed that team decisions have a way of degrading trust or silencing voices when we default to "single option presented --> discussion --> 'does anyone disagree?'" This is a fantastic way of ensuring group-think. Engineers sometimes fall into the trap of thinking that everyone feels free to say "no". This is manifestly wrong. Cultural aspects, context, and power always play a huge role in determining who can say what, how, and when. We must give deliberate space to dissent until dissent becomes the default.
 
 I expect you to have an opinion. If you don't have an opinion, you are not useful in the decision making process. Come prepared!
 
