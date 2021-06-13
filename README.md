@@ -81,7 +81,7 @@ To actually help you, I only need that you tell me what *you* need. Sometimes, a
 If in doubt, start like this: "Jamey, I need...." The rest we'll figure out.
 
 ### The case for *Time and Space*
-The communication patterns of individuals and teams need time to develop and can be disrupted if not left alone to grow. I build space and time for the communication channels to grow and deepen. Trust is another growable thing. I've been on the teams that stand up the first day where we all say "trust is the most important thing!" Yes, but it's not automatic and it's not even that regularly attained - certainly not by agreeing to it upfront. Trust is earned by working together on hard problems and sharing the gory and the glory that results from those efforts.
+The communication patterns of individuals and teams need time to develop and can be disrupted if not left alone to grow. I build space and time for the communication channels to grow and deepen. Trust is another growable thing. I've been on the teams that stand up the first day where we all say "trust is the most important thing!" Yes, but it's not automatic and it's not even that regularly attained - certainly not by agreeing to it upfront. Trust is earned by working together on hard problems and sharing the gory and the glory that results.
 
 ### The necessary role of *Conflict and Disagreement*
 Disagreement is where all personal growth begins. Sometimes disagreement will bleed into conflict and that too is ok, but only if it is acknowledged. When I lead teams, we agree first on how we identify and resolve conflict. Teams can set the standard, or I will.
