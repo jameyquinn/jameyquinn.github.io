@@ -1,18 +1,18 @@
 # Jamey's principled self
 
 Todo:
-   - [x] disclaimer
-   - [x] tldr
-   - [x] my job
-   - [ ] what i am working on
-   - [ ] protecting our creative process
-   - [x] guiding principles
-   - [x] personal management style
-   - [x] success
-   - [x] standards
-   - [x] inclusion
-   - [x] teams
-   - [x] sources
+   - [x]  disclaimer
+   - [x]  tldr
+   - [x]  my job
+   - [ ]  what i am working on
+   - [ ]  protecting our creative process
+   - [x]  guiding principles
+   - [x]  personal management style
+   - [x]  success
+   - [x]  standards
+   - [x]  inclusion
+   - [x]  teams
+   - [x]  sources
 
 ## Favorite Phrases:
 
