@@ -88,7 +88,7 @@ Disagreement is where all personal growth begins. Sometimes disagreement will bl
 
 ### How do I measure the success of our teams
 
-A couple of years ago, I found myself leading a squad of 12 people. This team before I had joined was so focused on the good feelings and conflict free discussions, that they had lost all sight of the work they had been asked to do. My boss found it ironic that my first reaction to "The Team of Happy" - as had called it - was anything but happy. I noted after a couple of days listening that there were going to be a few moments of uncomfortable conflict and that the happiness indicator was going to be replaced with a conflict count. Further, every day for 11 days, I invited someone that the team had let down either through planning or product fails.
+A couple of years ago, I found myself leading a squad of 12 people. This team before I had joined was so focused on the good feelings and conflict free discussions, that they had lost all sight of the work they had been asked to do. My boss found it ironic that my first reaction to "The Team of Happy" - as had called it - was anything but happy. I noted after a couple of days listening that there were going to be a few moments of uncomfortable conflict and that the happiness indicator was going to be replaced with a conflict count. Further, every day for 11 days, I invited someone that the team had let down either through planning or product missteps to a "fail session" with the team. The fastest (if not best) way to yank a team out of complacency is to show them how they are perceived by their stakeholders.
 
 I have had two scrum masters at two distinct times insist that happiness is the only important measure of teamwork. We did not last long together.
 
