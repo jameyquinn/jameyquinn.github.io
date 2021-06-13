@@ -182,7 +182,7 @@ We will start often with the phrase, "where are we?" To my mind, knowing where w
 ## Dependencies
 
   Dependencies can help us build quickly, but they can create the most profound obstacles to change.
-  > #### *There are no *only-good* or only-bad dependencies*
+  > #### There are no *only good* or *only bad* dependencies
 
   **Team Dependencies**:
 
