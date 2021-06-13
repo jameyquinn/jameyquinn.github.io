@@ -184,17 +184,23 @@ We will start often with the phrase, "where are we?" To my mind, knowing where w
   Dependencies can help us build quickly, but they can create the most profound obstacles to change.
   > #### *There are no *only-good* or only-bad dependencies*
 
-  **Team Dependencies**: When there is a dependency on another team, i expect that BOTH teams have specifically identified the choices of that dependency and how each team will manage changes and informing on change.
+  **Team Dependencies**:
+
+  When there is a dependency on another team, i expect that BOTH teams have specifically identified the choices of that dependency and how each team will manage changes and informing on change.
 
   Teams should be able to carry out their mission without having to coordinate outside the team. When it’s not possible to avoid an organizational dependency, I expect us to actively establish processes that enable the teams to coordinate efficiently. At the same time, we must kill all unnecessary dependencies.
 
   **People Dependencies**
+
   If there is only one person on a team that is capable and/or responsible for a critical component or process, FIX THAT NOW!
 
   **Code dependencies - DRY (Don't Repeat Yourself) v. AHA**
+
   DRY applies within a single system. In cloud architectures, DRY complicates things tremendously. Don't use the DRY principle to justify a complicated cross-system abstraction.
 
-  **Cloud dependencies**: For cloud based systems, copy-paste is an easier operation than both (a) abstraction and (b) dependency management
+  **Cloud dependencies**
+
+  For cloud based systems, copy-paste is an easier operation than both (a) abstraction and (b) dependency management. Please don't create another dependency to simply meet the DRY imperative!!!
 ## Innovation
 
   Innovation comes from inspiration and perspiration. No one has a monopoly on fresh and exciting ideas. Get to it already! Measure one thing well that demonstrates you are thinking about impact.
