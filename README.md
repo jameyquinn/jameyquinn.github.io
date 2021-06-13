@@ -135,18 +135,21 @@ I expect you to have an opinion. If you don't have an opinion, you are not usefu
 
 If you can't or won't decide, I will.
 
-When we have decisions that have to be made on behalf of others, we should have concensus or simply accept someone else deciding for us. On small and large teams, this means we have to have a way to decide things - or said another way - decide how to decide! However, before being confronted with the difficult decision, it's a useful exercise to have teams discuss their ideal ways of creating and acknowledging consensus.
+When we have decisions that have to be made on behalf of others, we should have concensus or simply accept someone else deciding for us. On small and large teams, this means we have to have a way to decide things - or said another way - we should decide how to decide before we find ourselves arguing over something difficult,
+
+I like to have my teams write out the "how we decide agreement" that answers:
 
 *Primary*: who should decide?
+
 *Secondary*: who will decide?
 
 1. by when?
-1. considering what alternatives?
-2. defaulting to what in case of indecision?
-3. using what information? - *to help us know when to stop gathering data or exploring for options*
-4. to what end?
-5. by what decision making process?
-6. how will the decision be communicated and logged?
+2. considering what alternatives?
+3. defaulting to what in case of indecision?
+4. using what information? - *to help us know when to stop gathering data or exploring for options*
+5. to what end?
+6. by what decision making process?
+7. how will the decision be communicated and logged?
 
 #### By what decision making process?
 
@@ -160,23 +163,23 @@ The starting list of methods might be:
 
 > "Deciding not to decide" is a perfectly good decision and one that should always be considered.
 
-### Communication
+## Communication
 
 I will likely ask you "what do you think? knowing what you know now, what would you recommend?" I am not being kind - I want your opinion.
 I expect you to ask me these same questions.
 
 > #### *knowing where we are is fundamental to knowing where we're going.*
 
-#### Data informed
+### Data informed
 I will ask you "how do we know?" If we don't know how we know something, that suggests that we don't actually know it. We will call out our assumptions that our knowledge is based on and leave the door open to changing facts that disrupt our plans.
 
-#### Low Context Communication
+### Low Context Communication
 
 I tend to lean towards low-context comms. This is to ensure that we have opportunities to rehash the things "everybody" already "knows". I find that low-context benefits dialog across large teams. You will see that I start conversations with baseline understanding of contexts and scope. I will likely ask for repetition here so that we can draw out where original understandings have changed, or to highlight clarifications.
 
 We will start often with the phrase, "where are we?" To my mind, knowing where we are is fundamental to knowing where we will going.
 
-### Dependencies
+## Dependencies
 
   Dependencies can help us build quickly, but they can create the most profound obstacles to change.
   > #### *There are no *only-good* or only-bad dependencies*
@@ -192,7 +195,7 @@ We will start often with the phrase, "where are we?" To my mind, knowing where w
   DRY applies within a single system. In cloud architectures, DRY complicates things tremendously. Don't use the DRY principle to justify a complicated cross-system abstraction.
 
   **Cloud dependencies**: For cloud based systems, copy-paste is an easier operation than both (a) abstraction and (b) dependency management
-  #### Innovation
+## Innovation
 
   Innovation comes from inspiration and perspiration. No one has a monopoly on fresh and exciting ideas. Get to it already! Measure one thing well that demonstrates you are thinking about impact.
 
@@ -222,6 +225,7 @@ When we interview, every very candidate should walk away with the following answ
 ### The language of teams
 
 > ##### *'I and me' for inside team, 'we and us' for everyone else*
+
 
 When it's just us, we have to be explicit about our own opinions and work. However, when we represent our own and team work, it's so important for fairness to use more inclusive language of "we" to describe our work. I think this captures how some of my best teams have operated.
 
