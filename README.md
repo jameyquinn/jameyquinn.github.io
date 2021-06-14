@@ -141,7 +141,7 @@ I haven't always had a section on deciding. However, in the last few years, I've
 
 I expect you to have an opinion. If you don't have an opinion, you are not useful in the decision making process. Come prepared!
 
-If you can't or won't decide, I will.
+If you can't or won't decide, I will. I will err on the side of the most distasteful.
 
 When we have decisions that have to be made on behalf of others, we should have concensus or simply accept someone else deciding for us. On small and large teams, this means we have to have a way to decide things - or said another way - we should decide how to decide before we find ourselves arguing over something difficult,
 
@@ -161,6 +161,8 @@ I like to have my teams write out the "how we decide agreement" that answers:
 
 #### By what decision making process?
 
+> "Deciding not to decide" is a perfectly good decision and one that should always be considered.
+
 The choice of decision making method can make or break a team. A decision that must be made during stressful moments will feel rushed and arbitrary. Even when the best balance of interests is the result, a rushed decision can leave everyone feeling ignored or disrespected. For that reason, it helps to establish the ground rules for the team upfront. Some decisions are rightly made by the team lead (appointed or de facto) while others can be deferred to individuals. However, most decisions can be reasonably put to the whole team or a subset of teammates.
 
 The starting list of methods might be:
@@ -169,7 +171,6 @@ The starting list of methods might be:
 * committee decision - a subset of people make the decision or sometimes just the recommendation
 * appointee
 
-> "Deciding not to decide" is a perfectly good decision and one that should always be considered.
 
 ## Communication
 
