@@ -8,19 +8,19 @@
 [ - ]  elaborate on biases
 ## Contents
 
-#### [Favorite Phrases](#favorite-phrases)
-#### [Disclaimer](#disclaimer)
-#### [tl;dr:](#tl;dr:)
-#### [My job](#my-job)
-#### [Baseline principles](#baseline-principles)
-#### [My Management Style](#my-management-mtyle)
-#### [Inclusive culture](#my-indicators-of-inclusive-culture)
-#### [Decision-making](#decision-making)
-#### [Communication](#communication)
-#### [Dependencies](#dependencies)
-#### [Innovation](#innovation)
-#### [Building-teams](#building-teams)
-#### [Biases](#biases)
+###### [Favorite Phrases](#favorite-phrases)
+###### [Disclaimer](#disclaimer)
+###### [tl;dr:](#tl;dr:)
+###### [My job](#my-job)
+###### [Baseline principles](#baseline-principles)
+###### [My Management Style](#my-management-mtyle)
+###### [Inclusive culture](#my-indicators-of-inclusive-culture)
+###### [Decision making](#decision-making)
+###### [Communication](#communication)
+###### [Dependencies](#dependencies)
+###### [Innovation](#innovation)
+###### [Building-teams](#building-teams)
+###### [Biases](#biases)
 
 
 ## Favorite Phrases
@@ -72,7 +72,7 @@ In day to day life, I use a few principles that I rely on when - I will admit it
 * You are what you practice, repeatedly (thank you for this gem @colin.teele)
 * I expect excellence from **myself** and then from others, I support other's opinion at all times even in disagreement. Along the way, I make mistakes. I take accountability and learn from these.
 
-## My Management Style
+## My management style
 
 A former colleague described my management style as "transformational" ["getting everyone to contribute to the big picture" was how he put it].  A current colleague used "visionary" [his words: "innovative and inspiring"] to describe my approach. There are subtle distinctions between these, but I think context of leadership can drive the style more than innate preference. I don't disagree with these, but I don't particularly like the labels because of the judgment they imply. "Transformational" does not capture that I challenge a lot of things in people - sometimes even their patience. I do challenge assumptions, and intent, and process because I am more confident in the people around me when I see that they too have thought about the context we operate in.
 
