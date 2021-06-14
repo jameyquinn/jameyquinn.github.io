@@ -139,7 +139,7 @@ I like to use indicators to test the ACTUAL inclusiveness of teams:
 
 I haven't always had a section on deciding. However, in the last few years, I've noticed that team decisions have a way of degrading trust or silencing voices when we default to "single option presented --> discussion --> 'does anyone disagree?'" This is a fantastic way of ensuring group-think. Engineers sometimes fall into the trap of thinking that everyone feels free to say "no". This is manifestly wrong. Cultural aspects, context, and power always play a huge role in determining who can say what, how, and when. We must give deliberate space to dissent until dissent becomes the default.
 
-I expect you to have an opinion. If you don't have an opinion, you are not useful in the decision making process. Come prepared!
+I expect you to have an opinion. If you don't have an opinion, you are not useful in the decision making process. Come prepared! If you still don't have a position, then argue for the opinion with the least amount of support.
 
 If you can't or won't decide, I will. I will err on the side of the most distasteful.
 
