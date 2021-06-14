@@ -13,7 +13,7 @@
 * [x] [Decision-making](#decision-making)
 * [x] [Communication](#communication)
 * [x] [Dependencies](#dependencies)
-* [x] [Innovation](#innovation)
+* [x] [Innovation](#innovation);
 * [x] [Building-teams](#building-teams)
 * [x] [Biases](#biases)
 
@@ -62,7 +62,7 @@ As an engineer, architect, and leader, I expect myself to...
 In day to day life, I use a few principles that I rely on when - I will admit it - I don't know what to do.
 
 * Exemplify empathy
-* Represent others more fairly than they represent themselves
+* Represent others more positively than they would represent themselves
 * Integrity and candour are **not** debateable.
 * You are what you practice, repeatedly (thank you for this gem @colin.teele)
 * I expect excellence from **myself** and then from others, I support other's opinion at all times even in disagreement. Along the way, I make mistakes. I take accountability and learn from these.
@@ -97,7 +97,7 @@ A couple of years ago, I found myself leading a squad of 12 people. This team be
 
 I mention the happiness indicator because I have had two scrum masters at two distinct times insist that happiness is the only important measure of teamwork. We did not last long together. I despise it as a measure of team success.
 
-All the good juju and kumbaya in the world won't save us if you aren't contributing to the learning and productivity of yourself, your colleagues, and this company. Happy - IMHO - is not an acceptable byproduct of failure to live up to expections.
+All the good juju and kumbaya in the world won't save us if you aren't contributing to the learning and productivity of yourself, your colleagues, and this company. Happy - IMHO - is not an acceptable byproduct of failure to live up to expectations.
 
 Instead, make reasonable promises about useful things to people who care. Second, deliver on that promise on time. *Rinse and repeat.*
 
