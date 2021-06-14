@@ -1,9 +1,9 @@
 # Jamey's principled self
 
 ## Todo:
-    [ ]  what i am working on
-    [ ]  protecting our creative process
-    [ ]  elaborate on biases
+[ ]  what i am working on \
+[ ]  protecting our creative process \
+[ ]  elaborate on biases
 ## Contents
 
 [Favorite Phrases](#favorite-phrases) \
