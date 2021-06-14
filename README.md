@@ -52,7 +52,7 @@ This is a living document incumbent on no one else.
 
 ## tl;dr:
 
-Here's how I introduce myself to companies (see [my LinkedIn profile](https://www.linkedin.com/in/jameyquinn/))
+Here's how I introduce myself to companies (see [my LinkedIn profile](https://www.linkedin.com/in/jamesequinn/))
 
 
 > Having engineered and architected big-scale applications, built effective teams, and led research in the U.S., Kenya, Egypt, Thailand, Lebanon, India, Tunisia, Kyrgyzstan, Libya, Uzbekistan, and the Netherlands, I advise and implement data strategies ...
