@@ -246,7 +246,8 @@ When it's just us, we have to be explicit about our own opinions and work. Howev
 ## Biases
 I am aware of many of my biases. I watch for them, but I am still subject to most. I appreciate when others also try to identify our hidden biases that cloud our judgments and capacity to learn. [See wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases) for a rather exhaustive but solid list.
 
-To be continued. I have a friend who recommended that I actually list some of my biases here. She's right of course, but I'll save this task for a less sunny sky.
+I have a friend who recommended that I actually list some of my biases here. She's right of course, but I'll save this task for a less sunny sky. To be continued....
+
 ---
 # Sources
 
