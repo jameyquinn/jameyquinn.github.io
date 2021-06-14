@@ -3,19 +3,19 @@
 ### Todo:
 * [ ]  what i am working on
 * [ ]  protecting our creative process
-* [x] [Favorite Phrases:](#Favorite-phrases)
-* [x] [Disclaimer](#Disclaimer)
+* [x] [Favorite Phrases](#favorite-phrases)
+* [x] [Disclaimer](#disclaimer)
 * [x] [tl;dr:](#tl;dr:)
-* [x] [My job](#My-job)
-* [x] [Baseline principles](#Baseline-principles)
-* [x] [My Management Style](#My-Management-Style)
-* [x] [Inclusive culture](#My-indicators-of-inclusive-culture)
-* [x] [Decision-making](#Decision-making)
-* [x] [Communication](#Communication)
-* [x] [Dependencies](#Dependencies)
-* [x] [Innovation](#Innovation)
-* [x] [Building-teams](#Building-teams)
-* [x] [Biases](#Biases)
+* [x] [My job](#my-job)
+* [x] [Baseline principles](#baseline-principles)
+* [x] [My Management Style](#my-management-mtyle)
+* [x] [Inclusive culture](#my-indicators-of-inclusive-culture)
+* [x] [Decision-making](#decision-making)
+* [x] [Communication](#communication)
+* [x] [Dependencies](#dependencies)
+* [x] [Innovation](#innovation)
+* [x] [Building-teams](#building-teams)
+* [x] [Biases](#biases)
 
 
 ## Favorite Phrases
