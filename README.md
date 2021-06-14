@@ -1,21 +1,41 @@
 # Jamey's principled self
 
-### Todo:
-* [ ]  what i am working on
-* [ ]  protecting our creative process
-* [x] [Favorite Phrases](#favorite-phrases)
-* [x] [Disclaimer](#disclaimer)
-* [x] [tl;dr:](#tl;dr:)
-* [x] [My job](#my-job)
-* [x] [Baseline principles](#baseline-principles)
-* [x] [My Management Style](#my-management-mtyle)
-* [x] [Inclusive culture](#my-indicators-of-inclusive-culture)
-* [x] [Decision-making](#decision-making)
-* [x] [Communication](#communication)
-* [x] [Dependencies](#dependencies)
-* [x] [Innovation](#innovation);
-* [x] [Building-teams](#building-teams)
-* [x] [Biases](#biases)
+## Todo:
+[ - ]  what i am working on
+
+[ - ]  protecting our creative process
+
+[ - ]  elaborate on biases
+## Table of Contents
+<!-- {:.no_toc} -->
+
+{:toc}
+
+[Favorite Phrases](#favorite-phrases)
+
+[Disclaimer](#disclaimer)
+
+[tl;dr:](#tl;dr:)
+
+[My job](#my-job)
+
+[Baseline principles](#baseline-principles)
+
+[My Management Style](#my-management-mtyle)
+
+[Inclusive culture](#my-indicators-of-inclusive-culture)
+
+[Decision-making](#decision-making)
+
+[Communication](#communication)
+
+[Dependencies](#dependencies)
+
+[Innovation](#innovation)
+
+[Building-teams](#building-teams)
+
+[Biases](#biases)
 
 
 ## Favorite Phrases
@@ -24,7 +44,7 @@
 2. "Wrong, but consistent" is many times better than "right, but inconsistent"
 3. You are what you practice, repeatedly
 4. To what end?
-6. < Explore --------------------------- Exploit > where are we on this spectrum right now?
+6. <-- Explore --------------------------- Exploit --> where are we on this spectrum right now?
 
 ## Disclaimer
 
@@ -243,6 +263,7 @@ When it's just us, we have to be explicit about our own opinions and work. Howev
 ## Biases
 I am aware of many of my biases. I watch for them, but I am still subject to most. I appreciate when others also try to identify our hidden biases that cloud our judgments and capacity to learn. [See wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases) for a rather exhaustive but solid list.
 
+To be continued. I have a friend who recommended that I actually list some of my biases here. She's right of course, but I'll save this task for a less sunny sky.
 ---
 # Sources
 
