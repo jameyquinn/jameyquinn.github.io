@@ -1,21 +1,21 @@
 # Jamey's principled self
 
 ### Todo:
-- [ ]  what i am working on
-- [ ]  protecting our creative process
-- [x] [Favorite Phrases:](#Favorite-phrases)
-- [x] [Disclaimer](#Disclaimer)
-- [x] [tl;dr:](#tl;dr:)
-- [x] [My job](#My-job)
-- [x] [Baseline principles](#Baseline-principles)
-- [x] [My Management Style](#My-Management-Style)
-- [x] [Inclusive culture](#My-indicators-of-inclusive-culture)
-- [x] [Decision-making](#Decision-making)
-- [x] [Communication](#Communication)
-- [x] [Dependencies](#Dependencies)
-- [x] [Innovation](#Innovation)
-- [x] [Building-teams](#Building-teams)
-- [x] [Biases](#Biases)
+* [ ]  what i am working on
+* [ ]  protecting our creative process
+* [x] [Favorite Phrases:](#Favorite-phrases)
+* [x] [Disclaimer](#Disclaimer)
+* [x] [tl;dr:](#tl;dr:)
+* [x] [My job](#My-job)
+* [x] [Baseline principles](#Baseline-principles)
+* [x] [My Management Style](#My-Management-Style)
+* [x] [Inclusive culture](#My-indicators-of-inclusive-culture)
+* [x] [Decision-making](#Decision-making)
+* [x] [Communication](#Communication)
+* [x] [Dependencies](#Dependencies)
+* [x] [Innovation](#Innovation)
+* [x] [Building-teams](#Building-teams)
+* [x] [Biases](#Biases)
 
 
 ## Favorite Phrases
