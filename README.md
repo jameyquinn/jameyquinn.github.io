@@ -1,20 +1,24 @@
 # Jamey's principled self
 
-Todo:
-- [x]  disclaimer
-- [x]  tldr
-- [x]  my job
+### Todo:
 - [ ]  what i am working on
 - [ ]  protecting our creative process
-- [x]  guiding principles
-- [x]  personal management style
-- [x]  success
-- [x]  standards
-- [x]  inclusion
-- [x]  teams
-- [x]  sources
+- [x] [Favorite Phrases:](#Favorite-phrases)
+- [x] [Disclaimer](#Disclaimer)
+- [x] [tl;dr:](#tl;dr:)
+- [x] [My job](#My-job)
+- [x] [Baseline principles](#Baseline-principles)
+- [x] [My Management Style](#My-Management-Style)
+- [x] [Inclusive culture](#My-indicators-of-inclusive-culture)
+- [x] [Decision-making](#Decision-making)
+- [x] [Communication](#Communication)
+- [x] [Dependencies](#Dependencies)
+- [x] [Innovation](#Innovation)
+- [x] [Building-teams](#Building-teams)
+- [x] [Biases](#Biases)
 
-## Favorite Phrases:
+
+## Favorite Phrases
 
 1. How do you know?
 2. "Wrong, but consistent" is many times better than "right, but inconsistent"
@@ -50,6 +54,7 @@ As an engineer, architect, and leader, I expect myself to...
 * Foster learning and personal growth through experience
 * Ensure that decisions are made via consultations with relevant stakeholders
 * Build space for free expression and fearless exploration of ideas - protecting the creative process
+* Aggregating visions, translating these into specific requirements ... basically human centered *map-reduce*
 * Embrace confusion while striving to minimize it
 
 ## Baseline principles
@@ -206,7 +211,7 @@ We will start often with the phrase, "where are we?" To my mind, knowing where w
   Innovation comes from inspiration and perspiration. No one has a monopoly on fresh and exciting ideas. Get to it already! Measure one thing well that demonstrates you are thinking about impact.
 
   When you ask me if it's alright to try a different approach, I will probably challenge you with a logic model or try to push the idea to the limits of what you've already considered. This is to see if we are ready to build or if we should keep exploring for the moment. It is not a yes or a no. That decision will likely be yours - and so will the responsibility for making that call.
-## Building teams - sifting, lifting, shifting, gifting
+## Building teams
 
 We do more by complementing our own ideas and skills with another person's skills and ideas. Thus we need to team up to build good, sometimes big, sometimes complicated things. We won't always succeed, but that's our goal --> cohesive teams made of thriving individuals.
 

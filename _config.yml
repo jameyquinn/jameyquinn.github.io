@@ -8,7 +8,7 @@ gist:
   noscript: false
 markdown: kramdown
 kramdown:
-  input: GFM
+  auto_ids: true
   math_engine: mathjax
   syntax_highlighter: rouge
 theme: jekyll-theme-time-machine
