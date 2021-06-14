@@ -8,19 +8,19 @@
 [ - ]  elaborate on biases
 ## Contents
 
-###### [Favorite Phrases](#favorite-phrases)
-###### [Disclaimer](#disclaimer)
-###### [tl;dr:](#tl;dr:)
-###### [My job](#my-job)
-###### [Baseline principles](#baseline-principles)
-###### [My Management Style](#my-management-mtyle)
-###### [Inclusive culture](#my-indicators-of-inclusive-culture)
-###### [Decision making](#decision-making)
-###### [Communication](#communication)
-###### [Dependencies](#dependencies)
-###### [Innovation](#innovation)
-###### [Building-teams](#building-teams)
-###### [Biases](#biases)
+[Favorite Phrases](#favorite-phrases) \
+[Disclaimer](#disclaimer) \
+[tl;dr:](#tl;dr:) \
+[My job](#my-job) \
+[Baseline principles](#baseline-principles) \
+[My Management Style](#my-management-mtyle) \
+[Inclusive culture](#my-indicators-of-inclusive-culture) \
+[Decision making](#decision-making) \
+[Communication](#communication) \
+[Dependencies](#dependencies) \
+[Innovation](#innovation) \
+[Building-teams](#building-teams) \
+[Biases](#biases)
 
 
 ## Favorite Phrases
