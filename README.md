@@ -40,7 +40,7 @@ Here's how I introduce myself to companies (see [my LinkedIn profile](https://ww
 
 > Having engineered and architected big-scale applications, built effective teams, and led research in the U.S., Kenya, Egypt, Thailand, Lebanon, India, Tunisia, Kyrgyzstan, Libya, Uzbekistan, and the Netherlands, I advise and implement data strategies ...
 
-But, this hardly captures eveything I am. Every day I learn how to better listen, learn, and express myself. Today, for example, I played guitar instead of eating lunch. I regularly read a chapter of something fascinating before beginning my day (today: *The Tangled Tree*, David Quammen 2018.) I steal moments to play where my 2 children and I wrestle and make up stories. Every night - as my colleagues have noticed on some late calls - my partner and I read and sing to/with our lovelies.
+But, this hardly captures everything I am. Every day I learn how to better listen, learn, and express myself. Today, for example, I played guitar instead of eating lunch. I regularly read a chapter of something fascinating before beginning my day (today: *The Tangled Tree*, David Quammen 2018.) I steal moments to play where my 2 children and I wrestle and make up stories. Every night - as my colleagues have noticed on some late calls - my partner and I read and sing to/with our lovelies.
 
 My partner is often frustrated that I would rather build something (and have it later) than buy something (and have it now-ish). My colleagues are often frustrated that I am inconsistent between home and work.
 
@@ -66,8 +66,8 @@ In day to day life, I use a few principles that I rely on when - I will admit it
 
 * Exemplify empathy
 * Represent others more positively than they would represent themselves
-* Integrity and candour are **not** debateable.
-* You are what you practice, repeatedly (thank you for this gem @colin.teele)
+* Integrity and candour are **not** up for debate
+* You are what you practice, repeatedly (thank you for this gem @colin.steele)
 * I expect excellence from **myself** and then from others, I support other's opinion at all times even in disagreement. Along the way, I make mistakes. I take accountability and learn from these.
 
 ## My management style
@@ -141,7 +141,7 @@ I haven't always had a section on deciding. However, in the last few years, I've
 
 I expect you to have an opinion. If you don't have an opinion, you are not useful in the decision making process. Come prepared! If you still don't have a position, then argue for the opinion with the least amount of support.
 
-If you can't or won't decide, I will. I will err on the side of the most distasteful.
+If you can't or won't decide, I will and I will err on the side of the most arbitrary. So, be fearless (even pretend fearless). Deep breaths. Pick one. If it turns out to be wrong, then adjust - but we'll cross that bridge later. Right now, your decision IS the right one. Go prove yourself wrong!
 
 When we have decisions that have to be made on behalf of others, we should have concensus or simply accept someone else deciding for us. On small and large teams, this means we have to have a way to decide things - or said another way - we should decide how to decide before we find ourselves arguing over something difficult,
 
