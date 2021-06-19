@@ -143,7 +143,7 @@ I expect you to have an opinion. If you don't have an opinion, you are not usefu
 
 If you can't or won't decide, I will and I will err on the side of the most arbitrary. So, be fearless (even pretend fearless). Deep breaths. Pick one. If it turns out to be wrong, then adjust - but we'll cross that bridge later. Right now, your decision IS the right one. Go prove yourself wrong!
 
-When we have decisions that have to be made on behalf of others, we should have concensus or simply accept someone else deciding for us. On small and large teams, this means we have to have a way to decide things - or said another way - we should decide how to decide before we find ourselves arguing over something difficult,
+When we have decisions that have to be made on behalf of others, we should have consensus or simply accept someone else deciding for us. On small and large teams, this means we have to have a way to decide things - or said another way - we should decide how to decide before we find ourselves arguing over something difficult,
 
 I like to have my teams write out the "how we decide agreement" that answers:
 
@@ -166,7 +166,7 @@ I like to have my teams write out the "how we decide agreement" that answers:
 The choice of decision making method can make or break a team. A decision that must be made during stressful moments will feel rushed and arbitrary. Even when the best balance of interests is the result, a rushed decision can leave everyone feeling ignored or disrespected. For that reason, it helps to establish the ground rules for the team upfront. Some decisions are rightly made by the team lead (appointed or de facto) while others can be deferred to individuals. However, most decisions can be reasonably put to the whole team or a subset of teammates.
 
 The starting list of methods might be:
-* unanimous / concensus
+* unanimous / consensus
 * majority vote
 * committee decision - a subset of people make the decision or sometimes just the recommendation
 * appointee
